@@ -9,7 +9,7 @@ OUTPUT_FILE = "sleeper_market_history.csv"
 TRENDING_LIMIT = 100
 
 # Lookback windows in hours
-WINDOWS = [1, 6, 24]
+WINDOWS = [1]
 
 
 def get_trending(trend_type, hours):
