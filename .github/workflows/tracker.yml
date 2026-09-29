@@ -3,6 +3,9 @@ name: Sleeper Lineup Tracker
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-tracker:
     runs-on: ubuntu-latest
@@ -18,3 +21,17 @@ jobs:
 
       - name: Run tracker
         run: python tracker.py
+
+      - name: Save tracker data
+        run: |
+          git config user.name "Sleeper Tracker"
+          git config user.email "actions@github.com"
+
+          git add current_state.json
+
+          if git diff --cached --quiet; then
+            echo "No lineup changes to save."
+          else
+            git commit -m "Update Sleeper lineup snapshot"
+            git push
+          fi
