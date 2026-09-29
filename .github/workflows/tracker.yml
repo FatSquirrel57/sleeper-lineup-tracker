@@ -27,7 +27,7 @@ jobs:
           git config user.name "Sleeper Tracker"
           git config user.email "actions@github.com"
 
-          git add current_state.json
+          git add current_state.json lineup_changes.csv 2>/dev/null || true
 
           if git diff --cached --quiet; then
             echo "No lineup changes to save."
