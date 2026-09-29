@@ -2,7 +2,8 @@ import csv
 import json
 import os
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 LEAGUE_ID = "1312179819819053056"
 STATE_FILE = "current_state.json"
@@ -48,7 +49,9 @@ def build_snapshot(league, rosters, users):
     roster_positions = league["roster_positions"]
 
     snapshot = {
-        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "timestamp": datetime.now(
+            ZoneInfo("America/New_York")
+        ).strftime("%Y-%m-%d %I:%M:%S %p %Z"),
         "league_id": LEAGUE_ID,
         "rosters": {}
     }
@@ -104,6 +107,14 @@ def get_player_location(roster_data, player_id):
 
     return None
 
+def classify_movement(old_location, new_location):
+    if old_location == "BENCH" and new_location != "BENCH":
+        return "STARTED"
+
+    if old_location != "BENCH" and new_location == "BENCH":
+        return "BENCHED"
+
+    return "SLOT_CHANGE"
 
 def detect_changes(old_snapshot, new_snapshot):
     changes = []
@@ -142,7 +153,11 @@ def detect_changes(old_snapshot, new_snapshot):
                     "manager": new_roster["owner_name"],
                     "player_id": player_id,
                     "from": old_location,
-                    "to": new_location
+                    "to": new_location,
+                    "movement": classify_movement(
+                        old_location,
+                        new_location
+                    )
                 })
 
     return changes
@@ -177,6 +192,7 @@ def write_changes(changes):
             "player_id",
             "from",
             "to",
+            "movement",
             "roster_id"
         ]
 
