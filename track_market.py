@@ -1,15 +1,28 @@
 import csv
+import json
 import os
 import requests
 from datetime import datetime, timezone
 
 OUTPUT_FILE = "sleeper_market_history.csv"
+PLAYER_FILE = "sleeper_players.json"
 
-# How many trending players Sleeper should return
 TRENDING_LIMIT = 100
 
-# Lookback windows in hours
+# For our high-frequency market tape, we're tracking the rolling 1-hour market.
 WINDOWS = [1]
+
+
+def load_players():
+    if not os.path.exists(PLAYER_FILE):
+        raise FileNotFoundError(
+            f"{PLAYER_FILE} does not exist. Run update_players.py first."
+        )
+
+    with open(PLAYER_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    return data["players"]
 
 
 def get_trending(trend_type, hours):
@@ -26,7 +39,19 @@ def get_trending(trend_type, hours):
     return response.json()
 
 
-def collect_market_data():
+def get_player_name(player):
+    full_name = player.get("full_name")
+
+    if full_name:
+        return full_name
+
+    first_name = player.get("first_name", "")
+    last_name = player.get("last_name", "")
+
+    return f"{first_name} {last_name}".strip()
+
+
+def collect_market_data(players):
     timestamp = datetime.now(timezone.utc).isoformat()
 
     rows = []
@@ -36,14 +61,21 @@ def collect_market_data():
 
             data = get_trending(trend_type, hours)
 
-            for rank, player in enumerate(data, start=1):
+            for rank, trending_player in enumerate(data, start=1):
+
+                player_id = str(trending_player["player_id"])
+                player = players.get(player_id, {})
+
                 rows.append({
                     "timestamp_utc": timestamp,
                     "trend_type": trend_type,
                     "lookback_hours": hours,
                     "rank": rank,
-                    "player_id": player["player_id"],
-                    "count": player["count"],
+                    "player_id": player_id,
+                    "player_name": get_player_name(player),
+                    "position": player.get("position", ""),
+                    "team": player.get("team", ""),
+                    "count": trending_player["count"],
                 })
 
     return rows
@@ -57,6 +89,9 @@ def save_rows(rows):
         "lookback_hours",
         "rank",
         "player_id",
+        "player_name",
+        "position",
+        "team",
         "count",
     ]
 
@@ -73,7 +108,9 @@ def save_rows(rows):
 
 if __name__ == "__main__":
 
-    rows = collect_market_data()
+    players = load_players()
+
+    rows = collect_market_data(players)
     save_rows(rows)
 
     print(f"Saved {len(rows)} market observations.")
