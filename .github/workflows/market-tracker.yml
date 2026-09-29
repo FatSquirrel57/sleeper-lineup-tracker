@@ -1,0 +1,48 @@
+name: Sleeper Market Tracker
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sleeper-market-tracker
+  cancel-in-progress: false
+
+jobs:
+  track-market:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run market tracker
+        run: python track_market.py
+
+      - name: Commit market history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add sleeper_market_history.csv
+
+          if git diff --cached --quiet; then
+            echo "No market data changed."
+          else
+            git commit -m "Update Sleeper market history"
+            git pull --rebase
+            git push
+          fi
