@@ -32,6 +32,9 @@ jobs:
       - name: Run market tracker
         run: python track_market.py
 
+      - name: Analyze market
+        run: python analyze_market.py
+
       - name: Commit market history
         run: |
           git config user.name "github-actions[bot]"
