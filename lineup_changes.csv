@@ -2,3 +2,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-09-29 04:16:51 PM EDT,Bobrasaka,Dallas Goedert,5022,BENCH,FLEX,STARTED,4
 2026-09-29 06:18:37 PM EDT,Bobrasaka,Dallas Goedert,5022,FLEX,BENCH,BENCHED,4
 2026-09-29 07:24:29 PM EDT,Bobrasaka,Dallas Goedert,5022,BENCH,SUPER_FLEX,STARTED,4
+2026-09-29 10:20:01 PM EDT,Bobrasaka,Terrance Ferguson,12487,BENCH,FLEX,STARTED,4
+2026-09-29 10:20:01 PM EDT,Bobrasaka,Dallas Goedert,5022,SUPER_FLEX,FLEX,SLOT_CHANGE,4
+2026-09-29 10:20:01 PM EDT,Bobrasaka,Tyler Warren,12518,BENCH,SUPER_FLEX,STARTED,4
