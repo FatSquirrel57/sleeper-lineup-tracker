@@ -19,3 +19,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-09-30 01:34:06 PM EDT,duncanMcnamara,Ollie Gordon,12495,BENCH,FLEX,STARTED,9
 2026-09-30 02:43:10 PM EDT,mopastakid,Tony Pollard,5967,FLEX,BENCH,BENCHED,1
 2026-09-30 02:43:10 PM EDT,Bobrasaka,Tyler Higbee,3271,BENCH,SUPER_FLEX,STARTED,4
+2026-09-30 05:37:22 PM EDT,Wambulance101,Braelon Allen,11576,RB,FLEX,SLOT_CHANGE,5
+2026-09-30 05:37:22 PM EDT,Wambulance101,Alvin Kamara,4035,FLEX,RB,SLOT_CHANGE,5
