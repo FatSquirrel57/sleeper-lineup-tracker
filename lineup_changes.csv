@@ -51,3 +51,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-02 04:42:08 PM EDT,delangelj,Cameron Dicker,8259,K,BENCH,BENCHED,6
 2026-10-03 12:50:15 AM EDT,Wambulance101,Omarion Hampton,12507,BENCH,RB,STARTED,5
 2026-10-03 12:50:15 AM EDT,Wambulance101,Alvin Kamara,4035,RB,BENCH,BENCHED,5
+2026-10-03 02:44:20 PM EDT,Wambulance101,Jalen Coker,11646,FLEX,WR,SLOT_CHANGE,5
+2026-10-03 02:44:20 PM EDT,Wambulance101,Emeka Egbuka,12514,WR,BENCH,BENCHED,5
+2026-10-03 02:44:20 PM EDT,Wambulance101,Alvin Kamara,4035,BENCH,FLEX,STARTED,5
