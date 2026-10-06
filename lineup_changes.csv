@@ -67,3 +67,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-06 08:34:07 AM EDT,bradleysmart,Matthew Golden,12501,BENCH,FLEX,STARTED,7
 2026-10-06 08:34:07 AM EDT,bradleysmart,Jaylen Warren,8228,FLEX,RB,SLOT_CHANGE,7
 2026-10-06 08:34:07 AM EDT,bradleysmart,Kenneth Walker,8151,RB,BENCH,BENCHED,7
+2026-10-06 09:51:52 AM EDT,charlietanas,Dak Prescott,3294,BENCH,SUPER_FLEX,STARTED,10
+2026-10-06 09:51:52 AM EDT,charlietanas,Brock Purdy,8183,SUPER_FLEX,BENCH,BENCHED,10
