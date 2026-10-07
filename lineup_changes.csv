@@ -94,3 +94,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-07 09:13:02 AM EDT,Wambulance101,Tre' Harris,12509,BENCH,FLEX,STARTED,5
 2026-10-07 09:13:02 AM EDT,Wambulance101,Alvin Kamara,4035,FLEX,BENCH,BENCHED,5
 2026-10-07 09:13:02 AM EDT,Wambulance101,Deshaun Watson,4017,BENCH,SUPER_FLEX,STARTED,5
+2026-10-07 09:53:37 AM EDT,mopastakid,Ladd McConkey,11635,WR,FLEX,SLOT_CHANGE,1
+2026-10-07 09:53:37 AM EDT,mopastakid,Roman Wilson,11630,FLEX,WR,SLOT_CHANGE,1
