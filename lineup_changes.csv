@@ -108,3 +108,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-07 01:27:05 PM EDT,Skozilla,Lamar Jackson,4881,QB,BENCH,BENCHED,8
 2026-10-07 01:27:05 PM EDT,Skozilla,Tyson Bagent,11256,BENCH,QB,STARTED,8
 2026-10-07 04:13:50 PM EDT,charlietanas,Will Reichard,11792,BENCH,K,STARTED,10
+2026-10-07 05:02:28 PM EDT,Wambulance101,Omarion Hampton,12507,RB,FLEX,SLOT_CHANGE,5
+2026-10-07 05:02:28 PM EDT,Wambulance101,Braelon Allen,11576,FLEX,RB,SLOT_CHANGE,5
