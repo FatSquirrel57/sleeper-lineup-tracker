@@ -122,3 +122,7 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-08 10:27:13 AM EDT,Bobrasaka,Garrett Wilson,8146,BENCH,WR,STARTED,4
 2026-10-08 11:26:06 AM EDT,Bobrasaka,Zach Ertz,1339,TE,BENCH,BENCHED,4
 2026-10-08 11:26:06 AM EDT,Bobrasaka,Tyler Warren,12518,BENCH,TE,STARTED,4
+2026-10-08 12:03:23 PM EDT,mopastakid,Will Shipley,11577,FLEX,RB,SLOT_CHANGE,1
+2026-10-08 12:03:23 PM EDT,mopastakid,Tony Pollard,5967,RB,FLEX,SLOT_CHANGE,1
+2026-10-08 12:03:23 PM EDT,duncanMcnamara,Drake Maye,11564,BENCH,QB,STARTED,9
+2026-10-08 12:03:23 PM EDT,duncanMcnamara,Bryce Young,9228,QB,BENCH,BENCHED,9
