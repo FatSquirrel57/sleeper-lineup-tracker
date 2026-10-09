@@ -133,3 +133,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-08 06:46:08 PM EDT,Wambulance101,Alvin Kamara,4035,BENCH,FLEX,STARTED,5
 2026-10-08 07:00:09 PM EDT,Skozilla,Kirk Cousins,1166,SUPER_FLEX,QB,SLOT_CHANGE,8
 2026-10-08 07:00:09 PM EDT,Skozilla,Tyson Bagent,11256,QB,SUPER_FLEX,SLOT_CHANGE,8
+2026-10-08 08:36:07 PM EDT,Bobrasaka,Garrett Wilson,8146,BENCH,WR,STARTED,4
+2026-10-08 08:36:07 PM EDT,Bobrasaka,Kyle Monangai,12534,RB,BENCH,BENCHED,4
+2026-10-08 08:36:07 PM EDT,Bobrasaka,Woody Marks,12474,BENCH,RB,STARTED,4
