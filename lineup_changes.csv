@@ -140,3 +140,7 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-09 12:39:03 PM EDT,Wambulance101,Tre' Harris,12509,FLEX,BENCH,BENCHED,5
 2026-10-09 03:53:08 PM EDT,Anakingrownup,Terry McLaurin,5927,BENCH,WR,STARTED,3
 2026-10-09 03:53:08 PM EDT,Anakingrownup,Stefon Diggs,2449,WR,BENCH,BENCHED,3
+2026-10-09 10:59:30 PM EDT,Bobrasaka,Tyler Warren,12518,TE,FLEX,SLOT_CHANGE,4
+2026-10-09 10:59:30 PM EDT,Bobrasaka,Dallas Goedert,5022,BENCH,TE,STARTED,4
+2026-10-09 10:59:30 PM EDT,Bobrasaka,Drake London,8112,FLEX,WR,SLOT_CHANGE,4
+2026-10-09 10:59:30 PM EDT,Bobrasaka,Dohnte Meyers,13264,WR,BENCH,BENCHED,4
