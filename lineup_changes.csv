@@ -214,3 +214,10 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-14 09:54:32 AM EDT,mopastakid,Ka'imi Fairbairn,3451,BENCH,K,STARTED,1
 2026-10-14 09:54:32 AM EDT,mopastakid,Kendrick Bourne,4454,BENCH,FLEX,STARTED,1
 2026-10-14 09:54:32 AM EDT,Anakingrownup,Jake Bates,11539,K,BENCH,BENCHED,3
+2026-10-14 10:58:08 AM EDT,delangelj,Amon-Ra St. Brown,7547,WR,BENCH,BENCHED,6
+2026-10-14 10:58:08 AM EDT,delangelj,Kenny Gainwell,7567,BENCH,FLEX,STARTED,6
+2026-10-14 10:58:08 AM EDT,delangelj,Kyler Murray,5849,SUPER_FLEX,BENCH,BENCHED,6
+2026-10-14 10:58:08 AM EDT,delangelj,Deebo Samuel,5872,WR,BENCH,BENCHED,6
+2026-10-14 10:58:08 AM EDT,delangelj,Jahmyr Gibbs,9221,RB,BENCH,BENCHED,6
+2026-10-14 10:58:08 AM EDT,delangelj,Pat Freiermuth,7600,BENCH,SUPER_FLEX,STARTED,6
+2026-10-14 10:58:08 AM EDT,delangelj,D'Andre Swift,6790,FLEX,RB,SLOT_CHANGE,6
