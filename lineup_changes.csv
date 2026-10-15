@@ -231,3 +231,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-14 10:04:19 PM EDT,mopastakid,Patrick Mahomes,4046,BENCH,QB,STARTED,1
 2026-10-14 10:04:19 PM EDT,mopastakid,Sam Darnold,4943,QB,SUPER_FLEX,SLOT_CHANGE,1
 2026-10-14 10:04:19 PM EDT,mopastakid,Daniel Jones,5870,SUPER_FLEX,BENCH,BENCHED,1
+2026-10-15 12:09:52 PM EDT,CaptainWham,Kendre Miller,9757,FLEX,BENCH,BENCHED,2
+2026-10-15 12:09:52 PM EDT,CaptainWham,Dameon Pierce,8129,BENCH,FLEX,STARTED,2
