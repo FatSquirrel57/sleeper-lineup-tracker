@@ -228,3 +228,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-14 05:37:19 PM EDT,Skozilla,Tre Tucker,10213,BENCH,WR,STARTED,8
 2026-10-14 05:37:19 PM EDT,Skozilla,Kirk Cousins,1166,QB,SUPER_FLEX,SLOT_CHANGE,8
 2026-10-14 05:37:19 PM EDT,Skozilla,Tee Higgins,6801,WR,BENCH,BENCHED,8
+2026-10-14 10:04:19 PM EDT,mopastakid,Patrick Mahomes,4046,BENCH,QB,STARTED,1
+2026-10-14 10:04:19 PM EDT,mopastakid,Sam Darnold,4943,QB,SUPER_FLEX,SLOT_CHANGE,1
+2026-10-14 10:04:19 PM EDT,mopastakid,Daniel Jones,5870,SUPER_FLEX,BENCH,BENCHED,1
