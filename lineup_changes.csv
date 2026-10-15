@@ -247,3 +247,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-15 01:16:30 PM EDT,Bobrasaka,Drake London,8112,BENCH,WR,STARTED,4
 2026-10-15 01:49:39 PM EDT,Anakingrownup,Javonte Williams,7588,FLEX,RB,SLOT_CHANGE,3
 2026-10-15 01:49:39 PM EDT,Anakingrownup,Jeremiyah Love,13287,RB,FLEX,SLOT_CHANGE,3
+2026-10-15 04:28:54 PM EDT,Bobrasaka,Trevor Lawrence,7523,QB,SUPER_FLEX,SLOT_CHANGE,4
+2026-10-15 04:28:54 PM EDT,Bobrasaka,Josh Allen,4984,SUPER_FLEX,QB,SLOT_CHANGE,4
