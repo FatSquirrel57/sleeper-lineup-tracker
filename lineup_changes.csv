@@ -296,3 +296,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-20 01:16:28 PM EDT,delangelj,Rashod Bateman,7571,WR,BENCH,BENCHED,6
 2026-10-20 01:16:28 PM EDT,delangelj,Davante Adams,2133,WR,BENCH,BENCHED,6
 2026-10-20 01:16:28 PM EDT,delangelj,Pat Freiermuth,7600,SUPER_FLEX,BENCH,BENCHED,6
+2026-10-20 02:58:56 PM EDT,mopastakid,Mike Evans,2216,WR,BENCH,BENCHED,1
+2026-10-20 02:58:56 PM EDT,mopastakid,Omar Cooper,13276,BENCH,FLEX,STARTED,1
+2026-10-20 02:58:56 PM EDT,mopastakid,A.J. Brown,5859,FLEX,WR,SLOT_CHANGE,1
