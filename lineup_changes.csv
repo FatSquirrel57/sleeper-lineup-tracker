@@ -304,3 +304,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-20 04:34:42 PM EDT,bradleysmart,DeVonta Smith,7525,SUPER_FLEX,FLEX,SLOT_CHANGE,7
 2026-10-20 04:34:42 PM EDT,bradleysmart,Ja'Marr Chase,7564,BENCH,WR,STARTED,7
 2026-10-20 04:34:42 PM EDT,bradleysmart,Luther Burden,12519,WR,BENCH,BENCHED,7
+2026-10-20 07:07:08 PM EDT,bradleysmart,Sam LaPorta,10859,BENCH,TE,STARTED,7
+2026-10-20 07:07:08 PM EDT,bradleysmart,Juwan Johnson,7002,TE,BENCH,BENCHED,7
