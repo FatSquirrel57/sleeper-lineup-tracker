@@ -346,3 +346,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-21 12:40:34 PM EDT,Wambulance101,Jalen Coker,11646,BENCH,FLEX,STARTED,5
 2026-10-21 01:48:27 PM EDT,CaptainWham,Quinshon Judkins,12512,FLEX,RB,SLOT_CHANGE,2
 2026-10-21 01:48:27 PM EDT,CaptainWham,Dameon Pierce,8129,RB,FLEX,SLOT_CHANGE,2
+2026-10-21 05:39:43 PM EDT,Wambulance101,AJ Barner,11603,BENCH,SUPER_FLEX,STARTED,5
+2026-10-21 05:39:43 PM EDT,Wambulance101,Jalon Daniels,13425,SUPER_FLEX,BENCH,BENCHED,5
