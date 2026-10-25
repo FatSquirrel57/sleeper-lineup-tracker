@@ -383,3 +383,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-25 09:12:55 AM EDT,mopastakid,Darius Cooper,13150,BENCH,FLEX,STARTED,1
 2026-10-25 09:12:55 AM EDT,delangelj,Kenny Gainwell,7567,FLEX,BENCH,BENCHED,6
 2026-10-25 09:12:55 AM EDT,delangelj,Pat Freiermuth,7600,BENCH,FLEX,STARTED,6
+2026-10-25 12:01:25 PM EDT,Bobrasaka,Breece Hall,8155,RB,BENCH,BENCHED,4
+2026-10-25 12:01:25 PM EDT,Bobrasaka,Puka Nacua,9493,BENCH,FLEX,STARTED,4
+2026-10-25 12:01:25 PM EDT,Bobrasaka,RJ Harvey,12489,FLEX,RB,SLOT_CHANGE,4
