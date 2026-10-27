@@ -426,3 +426,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-27 12:33:12 PM EDT,CaptainWham,Bhayshul Tuten,12490,BENCH,FLEX,STARTED,2
 2026-10-27 03:28:16 PM EDT,CaptainWham,Bhayshul Tuten,12490,FLEX,RB,SLOT_CHANGE,2
 2026-10-27 03:28:16 PM EDT,CaptainWham,Khalil Shakir,8134,WR,FLEX,SLOT_CHANGE,2
+2026-10-27 04:41:19 PM EDT,Wambulance101,Braelon Allen,11576,BENCH,FLEX,STARTED,5
+2026-10-27 04:41:19 PM EDT,Wambulance101,Caleb Douglas,13296,BENCH,WR,STARTED,5
+2026-10-27 04:41:19 PM EDT,Wambulance101,Antonio Williams,13301,FLEX,BENCH,BENCHED,5
