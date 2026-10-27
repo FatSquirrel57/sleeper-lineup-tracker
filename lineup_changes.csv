@@ -424,3 +424,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-27 12:33:12 PM EDT,CaptainWham,Kyle Pitts Sr.,7553,FLEX,BENCH,BENCHED,2
 2026-10-27 12:33:12 PM EDT,CaptainWham,Dameon Pierce,8129,FLEX,BENCH,BENCHED,2
 2026-10-27 12:33:12 PM EDT,CaptainWham,Bhayshul Tuten,12490,BENCH,FLEX,STARTED,2
+2026-10-27 03:28:16 PM EDT,CaptainWham,Bhayshul Tuten,12490,FLEX,RB,SLOT_CHANGE,2
+2026-10-27 03:28:16 PM EDT,CaptainWham,Khalil Shakir,8134,WR,FLEX,SLOT_CHANGE,2
