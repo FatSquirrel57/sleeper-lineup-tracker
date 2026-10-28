@@ -449,3 +449,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-28 11:12:39 AM EDT,charlietanas,Christian McCaffrey,4034,RB,BENCH,BENCHED,10
 2026-10-28 11:12:39 AM EDT,charlietanas,Luther Burden III,12519,FLEX,WR,SLOT_CHANGE,10
 2026-10-28 11:12:39 AM EDT,charlietanas,Jaylen Waddle,7526,BENCH,FLEX,STARTED,10
+2026-10-28 12:52:02 PM EDT,Anakingrownup,Stefon Diggs,2449,BENCH,WR,STARTED,3
+2026-10-28 12:52:02 PM EDT,Anakingrownup,Dalton Schultz,5001,FLEX,BENCH,BENCHED,3
+2026-10-28 12:52:02 PM EDT,Anakingrownup,Germie Bernard,13274,WR,FLEX,SLOT_CHANGE,3
