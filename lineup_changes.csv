@@ -441,3 +441,11 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-28 09:23:20 AM EDT,Wambulance101,Caleb Douglas,13296,WR,BENCH,BENCHED,5
 2026-10-28 09:23:20 AM EDT,bradleysmart,Xavier Worthy,11624,BENCH,FLEX,STARTED,7
 2026-10-28 09:23:20 AM EDT,bradleysmart,Saquon Barkley,4866,FLEX,BENCH,BENCHED,7
+2026-10-28 11:12:39 AM EDT,charlietanas,Josh Jacobs,5850,FLEX,RB,SLOT_CHANGE,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Nico Collins,7569,WR,BENCH,BENCHED,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Dak Prescott,3294,BENCH,SUPER_FLEX,STARTED,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Jordan Mason,8408,BENCH,FLEX,STARTED,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Brock Purdy,8183,SUPER_FLEX,BENCH,BENCHED,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Christian McCaffrey,4034,RB,BENCH,BENCHED,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Luther Burden III,12519,FLEX,WR,SLOT_CHANGE,10
+2026-10-28 11:12:39 AM EDT,charlietanas,Jaylen Waddle,7526,BENCH,FLEX,STARTED,10
