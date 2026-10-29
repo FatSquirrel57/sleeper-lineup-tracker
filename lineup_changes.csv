@@ -468,3 +468,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-28 05:16:47 PM EDT,Wambulance101,Quinshon Judkins,12512,FLEX,RB,SLOT_CHANGE,5
 2026-10-29 08:23:22 AM EDT,CaptainWham,Khalil Shakir,8134,FLEX,BENCH,BENCHED,2
 2026-10-29 08:23:22 AM EDT,CaptainWham,Kyle Pitts Sr.,7553,BENCH,FLEX,STARTED,2
+2026-10-29 09:31:30 AM EDT,Wambulance101,Antonio Williams,13301,BENCH,SUPER_FLEX,STARTED,5
+2026-10-29 09:31:30 AM EDT,Wambulance101,Chig Okonkwo,8210,SUPER_FLEX,BENCH,BENCHED,5
