@@ -492,3 +492,7 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-30 03:33:35 PM EDT,Wambulance101,Emeka Egbuka,12514,WR,BENCH,BENCHED,5
 2026-10-30 03:33:35 PM EDT,charlietanas,Mark Andrews,5012,TE,BENCH,BENCHED,10
 2026-10-30 03:33:35 PM EDT,charlietanas,T.J. Hockenson,5844,BENCH,TE,STARTED,10
+2026-10-30 07:10:21 PM EDT,Bobrasaka,Carnell Tate,13279,WR,BENCH,BENCHED,4
+2026-10-30 07:10:21 PM EDT,Bobrasaka,Ryan Flournoy,11783,BENCH,WR,STARTED,4
+2026-10-30 07:10:21 PM EDT,Wambulance101,Quinshon Judkins,12512,RB,FLEX,SLOT_CHANGE,5
+2026-10-30 07:10:21 PM EDT,Wambulance101,Braelon Allen,11576,FLEX,RB,SLOT_CHANGE,5
