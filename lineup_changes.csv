@@ -496,3 +496,7 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-10-30 07:10:21 PM EDT,Bobrasaka,Ryan Flournoy,11783,BENCH,WR,STARTED,4
 2026-10-30 07:10:21 PM EDT,Wambulance101,Quinshon Judkins,12512,RB,FLEX,SLOT_CHANGE,5
 2026-10-30 07:10:21 PM EDT,Wambulance101,Braelon Allen,11576,FLEX,RB,SLOT_CHANGE,5
+2026-10-31 02:48:19 PM EDT,mopastakid,A.J. Brown,5859,WR,BENCH,BENCHED,1
+2026-10-31 02:48:19 PM EDT,mopastakid,Ladd McConkey,11635,BENCH,WR,STARTED,1
+2026-10-31 02:48:19 PM EDT,Wambulance101,Caleb Douglas,13296,SUPER_FLEX,BENCH,BENCHED,5
+2026-10-31 02:48:19 PM EDT,Wambulance101,Chig Okonkwo,8210,BENCH,SUPER_FLEX,STARTED,5
