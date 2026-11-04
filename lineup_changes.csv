@@ -547,3 +547,10 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-04 03:02:28 AM EST,duncanMcnamara,Kyren Williams,8150,BENCH,RB,STARTED,9
 2026-11-04 03:02:28 AM EST,duncanMcnamara,Ollie Gordon II,12495,RB,FLEX,SLOT_CHANGE,9
 2026-11-04 03:02:28 AM EST,duncanMcnamara,Mason Taylor,12498,FLEX,BENCH,BENCHED,9
+2026-11-04 11:11:57 AM EST,Wambulance101,Antonio Williams,13301,WR,BENCH,BENCHED,5
+2026-11-04 11:11:57 AM EST,Wambulance101,Emeka Egbuka,12514,BENCH,WR,STARTED,5
+2026-11-04 11:11:57 AM EST,bradleysmart,Jaylen Warren,8228,RB,BENCH,BENCHED,7
+2026-11-04 11:11:57 AM EST,bradleysmart,Saquon Barkley,4866,FLEX,RB,SLOT_CHANGE,7
+2026-11-04 11:11:57 AM EST,bradleysmart,Xavier Worthy,11624,BENCH,FLEX,STARTED,7
+2026-11-04 11:11:57 AM EST,bradleysmart,Wan'Dale Robinson,8126,SUPER_FLEX,BENCH,BENCHED,7
+2026-11-04 11:11:57 AM EST,bradleysmart,C.J. Stroud,9758,BENCH,SUPER_FLEX,STARTED,7
