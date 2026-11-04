@@ -544,3 +544,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-03 08:41:36 PM EST,Skozilla,Deshaun Watson,4017,BENCH,QB,STARTED,8
 2026-11-03 08:41:36 PM EST,Skozilla,Tyler Loop,12711,K,BENCH,BENCHED,8
 2026-11-03 08:41:36 PM EST,Skozilla,Josh Downs,9500,BENCH,WR,STARTED,8
+2026-11-04 03:02:28 AM EST,duncanMcnamara,Kyren Williams,8150,BENCH,RB,STARTED,9
+2026-11-04 03:02:28 AM EST,duncanMcnamara,Ollie Gordon II,12495,RB,FLEX,SLOT_CHANGE,9
+2026-11-04 03:02:28 AM EST,duncanMcnamara,Mason Taylor,12498,FLEX,BENCH,BENCHED,9
