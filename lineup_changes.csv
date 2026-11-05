@@ -585,3 +585,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-05 04:10:55 AM EST,Wambulance101,Malik Washington,11610,BENCH,FLEX,STARTED,5
 2026-11-05 04:10:55 AM EST,delangelj,George Kittle,4217,BENCH,TE,STARTED,6
 2026-11-05 04:10:55 AM EST,delangelj,Pat Freiermuth,7600,TE,BENCH,BENCHED,6
+2026-11-05 12:24:58 PM EST,mopastakid,A.J. Brown,5859,FLEX,WR,SLOT_CHANGE,1
+2026-11-05 12:24:58 PM EST,mopastakid,Zach Charbonnet,9753,BENCH,FLEX,STARTED,1
+2026-11-05 12:24:58 PM EST,mopastakid,Mike Evans,2216,WR,BENCH,BENCHED,1
