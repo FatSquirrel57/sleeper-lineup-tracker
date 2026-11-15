@@ -701,3 +701,8 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-14 03:40:16 PM EST,bradleysmart,Kenneth Walker III,8151,RB,BENCH,BENCHED,7
 2026-11-14 03:40:16 PM EST,bradleysmart,Emmett Johnson,13337,BENCH,RB,STARTED,7
 2026-11-14 07:19:02 PM EST,Wambulance101,Kaleb Johnson,12504,FLEX,BENCH,BENCHED,5
+2026-11-15 01:49:48 AM EST,delangelj,Jordan Addison,9756,WR,BENCH,BENCHED,6
+2026-11-15 01:49:48 AM EST,delangelj,Darren Waller,2505,BENCH,SUPER_FLEX,STARTED,6
+2026-11-15 01:49:48 AM EST,delangelj,Deebo Samuel Sr.,5872,SUPER_FLEX,WR,SLOT_CHANGE,6
+2026-11-15 01:49:48 AM EST,charlietanas,T.J. Hockenson,5844,TE,BENCH,BENCHED,10
+2026-11-15 01:49:48 AM EST,charlietanas,Darnell Washington,9479,BENCH,TE,STARTED,10
