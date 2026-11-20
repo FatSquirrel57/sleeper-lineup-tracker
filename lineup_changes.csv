@@ -782,3 +782,7 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-19 04:03:29 AM EST,Skozilla,Alvin Kamara,4035,BENCH,RB,STARTED,8
 2026-11-19 01:10:46 PM EST,CaptainWham,Elic Ayomanor,12499,BENCH,WR,STARTED,2
 2026-11-19 01:10:46 PM EST,CaptainWham,Khalil Shakir,8134,WR,BENCH,BENCHED,2
+2026-11-20 11:24:45 AM EST,mopastakid,Omar Cooper Jr.,13276,FLEX,BENCH,BENCHED,1
+2026-11-20 11:24:45 AM EST,duncanMcnamara,Greg Dulcich,8172,FLEX,BENCH,BENCHED,9
+2026-11-20 11:24:45 AM EST,duncanMcnamara,Chimere Dike,12540,BENCH,WR,STARTED,9
+2026-11-20 11:24:45 AM EST,duncanMcnamara,Chris Godwin Jr.,4037,WR,FLEX,SLOT_CHANGE,9
