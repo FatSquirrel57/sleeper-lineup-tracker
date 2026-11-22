@@ -791,3 +791,5 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-22 06:42:22 AM EST,Bobrasaka,Kyle Monangai,12534,FLEX,RB,SLOT_CHANGE,4
 2026-11-22 06:42:22 AM EST,Bobrasaka,Rico Dowdle,7021,RB,BENCH,BENCHED,4
 2026-11-22 06:42:22 AM EST,Bobrasaka,Carnell Tate,13279,BENCH,FLEX,STARTED,4
+2026-11-22 01:39:34 PM EST,duncanMcnamara,Mason Taylor,12498,BENCH,TE,STARTED,9
+2026-11-22 01:39:34 PM EST,duncanMcnamara,Dalton Kincaid,10236,TE,BENCH,BENCHED,9
