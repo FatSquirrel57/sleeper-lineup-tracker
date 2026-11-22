@@ -788,3 +788,6 @@ timestamp,manager,player_name,player_id,from,to,movement,roster_id
 2026-11-20 11:24:45 AM EST,duncanMcnamara,Chris Godwin Jr.,4037,WR,FLEX,SLOT_CHANGE,9
 2026-11-20 05:44:38 PM EST,bradleysmart,Emmett Johnson,13337,BENCH,RB,STARTED,7
 2026-11-20 05:44:38 PM EST,bradleysmart,Kenneth Walker III,8151,RB,BENCH,BENCHED,7
+2026-11-22 06:42:22 AM EST,Bobrasaka,Kyle Monangai,12534,FLEX,RB,SLOT_CHANGE,4
+2026-11-22 06:42:22 AM EST,Bobrasaka,Rico Dowdle,7021,RB,BENCH,BENCHED,4
+2026-11-22 06:42:22 AM EST,Bobrasaka,Carnell Tate,13279,BENCH,FLEX,STARTED,4
